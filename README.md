@@ -3,7 +3,8 @@
 R Shiny로 만든 데이터 결측치 처리 웹앱입니다.
 
 ##Live Demo
-*(shinyapps.io 배포 후 링크 추가 예정)*
+
+https://rheagy.shinyapps.io/NA_app/
 
 ##주요 기능
 - 컬럼별 결측치 현황 요약 (50개씩 페이지네이션)
