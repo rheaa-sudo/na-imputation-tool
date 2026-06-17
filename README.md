@@ -1,4 +1,5 @@
 #NA Imputation Tool
+
 R Shiny로 만든 데이터 결측치 처리 웹앱입니다.
 
 ##Live Demo
@@ -21,4 +22,5 @@ R Shiny로 만든 데이터 결측치 처리 웹앱입니다.
 *(스크린샷 추가 예정)*
 
 ##라이선스
+
 이 프로젝트는 [MIT License](LICENSE)를 따릅니다.
